@@ -75,7 +75,7 @@ Here's the intended workflow:
 ├── manifests/
 │   ├── deployment.yaml
 │   └── service.yaml
-├── helm-chart/
+├── helm/
 │   └── Chart.yaml
 │   └── templates/
 │       ├── deployment.yaml
